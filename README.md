@@ -69,4 +69,9 @@ Incorporate external signals like competitor pricing.
 
 Enable scenario analysis for multiple forecasting strategies.
 
+Try it
+```bash
+https://regional-sales-predictor.streamlit.app/
+```
+
 

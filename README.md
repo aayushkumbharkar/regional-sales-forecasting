@@ -32,8 +32,7 @@ The dataset contains sample sales records with the following columns:
 1. Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/regional-sales-forecasting.git
-```
-```cd regional-sales-forecasting
+cd regional-sales-forecasting
 ```
 Install dependencies:
 

@@ -33,17 +33,16 @@ The dataset contains sample sales records with the following columns:
 ```bash
 git clone https://github.com/<your-username>/regional-sales-forecasting.git
 ```
-cd regional-sales-forecasting
+```cd regional-sales-forecasting
+```
 Install dependencies:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 Run the Streamlit app:
 
 ```bash
-Copy code
 streamlit run App.py
 ```
 Usage
@@ -53,7 +52,7 @@ View historical sales and forecasts in interactive charts.
 
 Download predictions for further analysis.
 
-Technologies
+Technologies:-
 Python
 
 Pandas & NumPy
@@ -71,6 +70,4 @@ Incorporate external signals like competitor pricing.
 
 Enable scenario analysis for multiple forecasting strategies.
 
-Author
-Aayush Kumbharkar
-LinkedIn
+

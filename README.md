@@ -32,17 +32,20 @@ The dataset contains sample sales records with the following columns:
 1. Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/regional-sales-forecasting.git
+```
 cd regional-sales-forecasting
 Install dependencies:
 
-bash
+```bash
 Copy code
 pip install -r requirements.txt
+```
 Run the Streamlit app:
 
-bash
+```bash
 Copy code
 streamlit run App.py
+```
 Usage
 Use the sidebar to select regions and products.
 
